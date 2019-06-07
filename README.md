@@ -11,6 +11,7 @@ You can change the defaults for your **_Distinguished Names_** (DN) under the **
 For more information see: https://en.wikipedia.org/wiki/Certificate_signing_request
 
 Use following CommonNames for:
+
 | Certificate        | Common Name Value  |
 | ------------------ |:------------------:|
 | CA                 | CA                 |
